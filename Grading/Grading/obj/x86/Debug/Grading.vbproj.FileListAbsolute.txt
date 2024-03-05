@@ -10,3 +10,10 @@ C:\Users\Sila\AppData\Local\Temporary Projects\Grading\obj\x86\Debug\Grading.pdb
 C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\obj\x86\Debug\Grading.exe
 C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\obj\x86\Debug\Grading.xml
 C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\obj\x86\Debug\Grading.pdb
+C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\bin\Debug\Grading.exe
+C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\bin\Debug\Grading.pdb
+C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\bin\Debug\Grading.xml
+C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\obj\x86\Debug\Grading.grading.resources
+C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\obj\x86\Debug\Grading.Resources.resources
+C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\obj\x86\Debug\Grading.vbproj.GenerateResource.Cache
+C:\Users\Sila\OneDrive\Desktop\Tech\Grading\Grading\obj\x86\Debug\Grading.Grade.resources
